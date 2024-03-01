@@ -1,1 +1,1 @@
-## Laravel admin panel with roles and permission
+## Laravel admin panel with roles and permissions
